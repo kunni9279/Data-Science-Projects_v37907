@@ -93,9 +93,10 @@ Description:Performed natural language processing on YouTube text data, includin
 What it shows:
 Demonstrates capability in NLP workflows, text preprocessing, and extracting actionable patterns from unstructured text data.
 
+
 8️⃣Time Series Stock Price Prediction (NIFTY 50)
-Description:
-Developed a time series forecasting model to predict NIFTY 50 stock index prices using historical market data. Performed data preprocessing, feature engineering, model training, and visualization to evaluate trends and future price movements.
+
+Description:Developed a time series forecasting model to predict NIFTY 50 stock index prices using historical market data. Performed data preprocessing, feature engineering, model training, and visualization to evaluate trends and future price movements.
 
 What it shows:
 Demonstrates strong understanding of time series analysis, financial data handling, predictive modeling, and data visualization—highlighting the ability to apply machine learning techniques to real-world market data.
