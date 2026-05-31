@@ -101,6 +101,12 @@ Description:Developed a time series forecasting model to predict NIFTY 50 stock 
 What it shows:
 Demonstrates strong understanding of time series analysis, financial data handling, predictive modeling, and data visualization—highlighting the ability to apply machine learning techniques to real-world market data.
 
+9️⃣ Computer Vision-Based Face Detection & Recognition System
+
+Description: Developed a computer vision application capable of detecting and recognizing human faces from images using OpenCV and machine learning techniques. Performed image preprocessing, face detection, feature extraction, model training, and prediction to accurately identify individuals while visualizing detection results with bounding boxes and labels.
+
+What it shows: Demonstrates strong knowledge of computer vision, image processing, facial recognition techniques, feature engineering, and machine learning workflows. Highlights the ability to work with real-world visual data, build intelligent recognition systems, and apply AI-driven solutions for identity verification and surveillance-related applications.
+
 
 
 👤 About Me
